@@ -1,0 +1,10 @@
+﻿.env
+**/.env
+.venv/
+.venv313/
+venv/
+__pycache__/
+*.pyc
+qdrant_db/
+qdrant_db_legacy_backup/
+.vscode/
